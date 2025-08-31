@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+faiss-cpu
+sentence-transformers
+PyMuPDF
+python-dotenv
+tf-keras
+google-generativeai
+pytesseract
+Pillow
+beautifulsoup4
